@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="EncycloEnglish.exe" version="1.0.0.2" publicKeyToken="4a82d3b401815d00" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Icono.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="EncycloEnglish" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="EncycloEnglish.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EncycloEnglish.exe" size="3422168">
+      <assemblyIdentity name="EncycloEnglish" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>e7zITSlJFM7qqUG9BBCkp6DJ6DEtQkkYTeBsqgYfaek=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="EncycloEnglish.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Icono.ico" size="45267">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>webhwhAWRTmiYGgAU7hxS8+IJ7d12Kw4gLxn1q0sviQ=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SAMMY\Sammy Jiménez" issuerKeyHash="509e442b5d2cb325031c9b6fa99626bc31222615" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Iw9VTvpIfww1eJnCizxCaw3kxv9GTM72Cc/Wh2um+Jc=</DigestValue></Reference></SignedInfo><SignatureValue>b71cYwZrG1KMSA1UY9BfytX45vMG56lwNNROe6dVihvxabflCsU026YpV2p+jZ3QOQLZBXgQYfElnJEZtt83Fvs7EZN9VFMTyjV2OKFPuBK+UnYPmR7T3ZcsTBe4dznPa8xI2UwZ27S55D29wADjmkiOATRmJ4C9LY2wzj7rXKY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4iZ9NYufd3wgaWXoBvYUCjB8IyBNWPLXDYW4onnKUQLZ5D4HfBnP1q6tjVgVKFNk2MGO+fzKBz7R0CbrXuy5aPaWK2wghLppq1Yx5VrDWldOkQcKpPy24FvVeOdG3t01nFHSGb/siezDC/82sjofGWdF+lN4HR+EYuM7cZC2fpU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="97f8a66b87d6cf09f6ce4c46ffc6e40d6b423c8bc29978350c7f48fa4e550f23" Description="" Url=""><as:assemblyIdentity name="EncycloEnglish.exe" version="1.0.0.2" publicKeyToken="4a82d3b401815d00" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SAMMY\Sammy Jiménez</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>PDLLg1yIIA0mtsO4zCJDuR4808ovB62jhBUVCGadIVo=</DigestValue></Reference></SignedInfo><SignatureValue>Ng+EAhAax8kFyK4Hs1x8DbIKxbqIs2vgiyYo2nNL2WicfQoDdv5We4owDrwJw5pb98gUOrSHmbh8rCNlecx3p0jyIW8yF3a786YlfJtmm5VSVLg9Fq9TOQK2XFPVVirfdXkVzrYVQ0Sl2N+y/SDIMoUbUa0cEywT8qhHqsZ4nsw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4iZ9NYufd3wgaWXoBvYUCjB8IyBNWPLXDYW4onnKUQLZ5D4HfBnP1q6tjVgVKFNk2MGO+fzKBz7R0CbrXuy5aPaWK2wghLppq1Yx5VrDWldOkQcKpPy24FvVeOdG3t01nFHSGb/siezDC/82sjofGWdF+lN4HR+EYuM7cZC2fpU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQYQXS8sNBgLtKs+bFdoIRrjANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYAUwBBAE0ATQBZAFwAUwBhAG0AbQB5ACAASgBpAG0A6QBuAGUAejAeFw0yMDA3MjcwMzU5MjVaFw0yMTA3MjcwOTU5MjVaMDExLzAtBgNVBAMeJgBTAEEATQBNAFkAXABTAGEAbQBtAHkAIABKAGkAbQDpAG4AZQB6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDiJn01i593fCBpZegG9hQKMHwjIE1Y8tcNhbiiecpRAtnkPgd8Gc/Wrq2NWBUoU2TYwY75/MoHPtHQJute7Llo9pYrbCCEummrVjHlWsNaV06RBwqk/LbgW9V450be3TWcUdIZv+yJ7MML/zayOh8ZZ0X6U3gdH4Ri4ztxkLZ+lQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAA/PH7RhxxPoCoem4nylehQp8egg5wn1b9po4MKwN7xHeY4z8GBxYhdFqJX+7JMkkexMza+CPg4NE0hInqon0dgg89AW8mkcay1msd1q2L8mUvEAJD/PHxWbM/BbRxaCA8BGlJZlt7Iw8Q6KoGwlOq4jaM8Icv7rYwnmNrqxaX1/</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

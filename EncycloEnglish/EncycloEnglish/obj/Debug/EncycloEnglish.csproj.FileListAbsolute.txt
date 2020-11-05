@@ -1,0 +1,55 @@
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\bin\Debug\EncycloEnglish.exe.config
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\bin\Debug\EncycloEnglish.exe.manifest
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\bin\Debug\EncycloEnglish.application
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\bin\Debug\EncycloEnglish.exe
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\bin\Debug\EncycloEnglish.pdb
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.csproj.ResolveComReference.cache
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.calificanos.resources
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.colores.resources
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.configuracion.resources
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.cuerpo.resources
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.derechos.resources
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.Loading.resources
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.FormPadre.resources
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.Licencia.resources
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.Menu.resources
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.Properties.Resources.resources
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.videoretro.resources
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.csproj.GenerateResource.cache
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.csproj.CoreCompileInputs.cache
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.exe.manifest
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.application
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.exe
+C:\Users\Sammy Jiménez\source\repos\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.pdb
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\bin\Debug\EncycloEnglish.exe.config
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\bin\Debug\EncycloEnglish.exe.manifest
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\bin\Debug\EncycloEnglish.application
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\bin\Debug\EncycloEnglish.exe
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\bin\Debug\EncycloEnglish.pdb
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\bin\Debug\Interop.WMPLib.dll
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\bin\Debug\AxInterop.WMPLib.dll
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.csprojAssemblyReference.cache
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\Interop.WMPLib.dll
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\AxInterop.WMPLib.dll
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.csproj.ResolveComReference.cache
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.calificanos.resources
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.colores.resources
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.configuracion.resources
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.cuerpo.resources
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.derechos.resources
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.Loading.resources
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.FormPadre.resources
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.Licencia.resources
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.Menu.resources
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.Properties.Resources.resources
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.videoretro.resources
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.csproj.GenerateResource.cache
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.csproj.CoreCompileInputs.cache
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.exe.manifest
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.application
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.exe
+D:\Sammy Jiménez\Documents\Contendios\Portafolio de Trabajo\EncycloEnglish\EncycloEnglish\obj\Debug\EncycloEnglish.pdb
